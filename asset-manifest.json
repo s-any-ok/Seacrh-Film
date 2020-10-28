@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/s-any-ok/Seacrh-Film/static/css/main.6cb321c3.chunk.css",
-    "main.js": "/s-any-ok/Seacrh-Film/static/js/main.f9c624dd.chunk.js",
-    "main.js.map": "/s-any-ok/Seacrh-Film/static/js/main.f9c624dd.chunk.js.map",
+    "main.js": "/s-any-ok/Seacrh-Film/static/js/main.1cd88b55.chunk.js",
+    "main.js.map": "/s-any-ok/Seacrh-Film/static/js/main.1cd88b55.chunk.js.map",
     "runtime-main.js": "/s-any-ok/Seacrh-Film/static/js/runtime-main.c8f399ee.js",
     "runtime-main.js.map": "/s-any-ok/Seacrh-Film/static/js/runtime-main.c8f399ee.js.map",
     "static/js/2.8bc754fe.chunk.js": "/s-any-ok/Seacrh-Film/static/js/2.8bc754fe.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c8f399ee.js",
     "static/js/2.8bc754fe.chunk.js",
     "static/css/main.6cb321c3.chunk.css",
-    "static/js/main.f9c624dd.chunk.js"
+    "static/js/main.1cd88b55.chunk.js"
   ]
 }
