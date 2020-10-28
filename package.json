@@ -1,7 +1,7 @@
 {
   "name": "search-film",
   "version": "0.1.0",
-  "homepage": "https://github.com/s-any-ok/Seacrh-Film",
+  "homepage": "https://s-any-ok.github.io/Seacrh-Film",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",

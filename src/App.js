@@ -41,7 +41,6 @@ class App extends React.Component {
     event.preventDefault();
   };
   setFav = (id) => {
-    debugger;
     let obj = this.state.movies.filter((m) => m.id === id);
     obj[0].isFavourite = !obj[0].isFavourite;
     this.setState({
@@ -56,19 +55,7 @@ class App extends React.Component {
           handleSubmit={this.handleSubmit}
           handleChange={this.handleChange}
         />
-        {this.state.movies
-          .sort((m1, m2) => m2.isFavourite - m1.isFavourite)
-          .filter((m) => {
-            if (this.state.search == null) return m;
-            else {
-              return m.title
-                .toLowerCase()
-                .includes(this.state.search.toLowerCase());
-            }
-          })
-          .map((movie) => {
-            return <Movie setFav={this.setFav} movie={movie} />;
-          })}
+        <Movies state={this.state} setFav={this.setFav} />
       </div>
     );
   }
@@ -106,6 +93,24 @@ const Movie = ({ movie, setFav }) => {
         onClick={chooseFilm}
         className={movie.isFavourite ? "heartFav" : "heart"}
       ></div>
+    </div>
+  );
+};
+
+const Movies = ({ state, setFav }) => {
+  return (
+    <div>
+      {state.movies
+        .sort((m1, m2) => m2.isFavourite - m1.isFavourite)
+        .filter((m) => {
+          if (state.search == null) return m;
+          else {
+            return m.title.toLowerCase().includes(state.search.toLowerCase());
+          }
+        })
+        .map((movie) => {
+          return <Movie setFav={setFav} movie={movie} />;
+        })}
     </div>
   );
 };
