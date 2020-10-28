@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/s-any-ok/Seacrh-Film/static/css/main.6cb321c3.chunk.css",
+    "main.js": "/s-any-ok/Seacrh-Film/static/js/main.44e1ac2f.chunk.js",
+    "main.js.map": "/s-any-ok/Seacrh-Film/static/js/main.44e1ac2f.chunk.js.map",
+    "runtime-main.js": "/s-any-ok/Seacrh-Film/static/js/runtime-main.3897e415.js",
+    "runtime-main.js.map": "/s-any-ok/Seacrh-Film/static/js/runtime-main.3897e415.js.map",
+    "static/js/2.bf801eda.chunk.js": "/s-any-ok/Seacrh-Film/static/js/2.bf801eda.chunk.js",
+    "static/js/2.bf801eda.chunk.js.map": "/s-any-ok/Seacrh-Film/static/js/2.bf801eda.chunk.js.map",
+    "static/js/3.9148efb7.chunk.js": "/s-any-ok/Seacrh-Film/static/js/3.9148efb7.chunk.js",
+    "static/js/3.9148efb7.chunk.js.map": "/s-any-ok/Seacrh-Film/static/js/3.9148efb7.chunk.js.map",
+    "index.html": "/s-any-ok/Seacrh-Film/index.html",
+    "static/css/main.6cb321c3.chunk.css.map": "/s-any-ok/Seacrh-Film/static/css/main.6cb321c3.chunk.css.map",
+    "static/js/2.bf801eda.chunk.js.LICENSE.txt": "/s-any-ok/Seacrh-Film/static/js/2.bf801eda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3897e415.js",
+    "static/js/2.bf801eda.chunk.js",
+    "static/css/main.6cb321c3.chunk.css",
+    "static/js/main.44e1ac2f.chunk.js"
+  ]
+}
