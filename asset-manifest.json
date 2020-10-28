@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/s-any-ok/Seacrh-Film/static/css/main.6cb321c3.chunk.css",
-    "main.js": "/s-any-ok/Seacrh-Film/static/js/main.1cd88b55.chunk.js",
-    "main.js.map": "/s-any-ok/Seacrh-Film/static/js/main.1cd88b55.chunk.js.map",
-    "runtime-main.js": "/s-any-ok/Seacrh-Film/static/js/runtime-main.c8f399ee.js",
-    "runtime-main.js.map": "/s-any-ok/Seacrh-Film/static/js/runtime-main.c8f399ee.js.map",
-    "static/js/2.8bc754fe.chunk.js": "/s-any-ok/Seacrh-Film/static/js/2.8bc754fe.chunk.js",
-    "static/js/2.8bc754fe.chunk.js.map": "/s-any-ok/Seacrh-Film/static/js/2.8bc754fe.chunk.js.map",
-    "static/js/3.95e4fdf5.chunk.js": "/s-any-ok/Seacrh-Film/static/js/3.95e4fdf5.chunk.js",
-    "static/js/3.95e4fdf5.chunk.js.map": "/s-any-ok/Seacrh-Film/static/js/3.95e4fdf5.chunk.js.map",
-    "index.html": "/s-any-ok/Seacrh-Film/index.html",
-    "static/css/main.6cb321c3.chunk.css.map": "/s-any-ok/Seacrh-Film/static/css/main.6cb321c3.chunk.css.map",
-    "static/js/2.8bc754fe.chunk.js.LICENSE.txt": "/s-any-ok/Seacrh-Film/static/js/2.8bc754fe.chunk.js.LICENSE.txt"
+    "main.css": "/Seacrh-Film/static/css/main.6cb321c3.chunk.css",
+    "main.js": "/Seacrh-Film/static/js/main.52a50999.chunk.js",
+    "main.js.map": "/Seacrh-Film/static/js/main.52a50999.chunk.js.map",
+    "runtime-main.js": "/Seacrh-Film/static/js/runtime-main.a9dc1101.js",
+    "runtime-main.js.map": "/Seacrh-Film/static/js/runtime-main.a9dc1101.js.map",
+    "static/js/2.8bc754fe.chunk.js": "/Seacrh-Film/static/js/2.8bc754fe.chunk.js",
+    "static/js/2.8bc754fe.chunk.js.map": "/Seacrh-Film/static/js/2.8bc754fe.chunk.js.map",
+    "static/js/3.95e4fdf5.chunk.js": "/Seacrh-Film/static/js/3.95e4fdf5.chunk.js",
+    "static/js/3.95e4fdf5.chunk.js.map": "/Seacrh-Film/static/js/3.95e4fdf5.chunk.js.map",
+    "index.html": "/Seacrh-Film/index.html",
+    "static/css/main.6cb321c3.chunk.css.map": "/Seacrh-Film/static/css/main.6cb321c3.chunk.css.map",
+    "static/js/2.8bc754fe.chunk.js.LICENSE.txt": "/Seacrh-Film/static/js/2.8bc754fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8f399ee.js",
+    "static/js/runtime-main.a9dc1101.js",
     "static/js/2.8bc754fe.chunk.js",
     "static/css/main.6cb321c3.chunk.css",
-    "static/js/main.1cd88b55.chunk.js"
+    "static/js/main.52a50999.chunk.js"
   ]
 }
