@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Seacrh-Film/static/css/main.6cb321c3.chunk.css",
-    "main.js": "/Seacrh-Film/static/js/main.928b9358.chunk.js",
-    "main.js.map": "/Seacrh-Film/static/js/main.928b9358.chunk.js.map",
-    "runtime-main.js": "/Seacrh-Film/static/js/runtime-main.a9dc1101.js",
-    "runtime-main.js.map": "/Seacrh-Film/static/js/runtime-main.a9dc1101.js.map",
-    "static/js/2.8bc754fe.chunk.js": "/Seacrh-Film/static/js/2.8bc754fe.chunk.js",
-    "static/js/2.8bc754fe.chunk.js.map": "/Seacrh-Film/static/js/2.8bc754fe.chunk.js.map",
-    "static/js/3.95e4fdf5.chunk.js": "/Seacrh-Film/static/js/3.95e4fdf5.chunk.js",
-    "static/js/3.95e4fdf5.chunk.js.map": "/Seacrh-Film/static/js/3.95e4fdf5.chunk.js.map",
+    "main.js": "/Seacrh-Film/static/js/main.24370534.chunk.js",
+    "main.js.map": "/Seacrh-Film/static/js/main.24370534.chunk.js.map",
+    "runtime-main.js": "/Seacrh-Film/static/js/runtime-main.d221f226.js",
+    "runtime-main.js.map": "/Seacrh-Film/static/js/runtime-main.d221f226.js.map",
+    "static/js/2.9fd5fca3.chunk.js": "/Seacrh-Film/static/js/2.9fd5fca3.chunk.js",
+    "static/js/2.9fd5fca3.chunk.js.map": "/Seacrh-Film/static/js/2.9fd5fca3.chunk.js.map",
+    "static/js/3.9075f661.chunk.js": "/Seacrh-Film/static/js/3.9075f661.chunk.js",
+    "static/js/3.9075f661.chunk.js.map": "/Seacrh-Film/static/js/3.9075f661.chunk.js.map",
     "index.html": "/Seacrh-Film/index.html",
     "static/css/main.6cb321c3.chunk.css.map": "/Seacrh-Film/static/css/main.6cb321c3.chunk.css.map",
-    "static/js/2.8bc754fe.chunk.js.LICENSE.txt": "/Seacrh-Film/static/js/2.8bc754fe.chunk.js.LICENSE.txt"
+    "static/js/2.9fd5fca3.chunk.js.LICENSE.txt": "/Seacrh-Film/static/js/2.9fd5fca3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9dc1101.js",
-    "static/js/2.8bc754fe.chunk.js",
+    "static/js/runtime-main.d221f226.js",
+    "static/js/2.9fd5fca3.chunk.js",
     "static/css/main.6cb321c3.chunk.css",
-    "static/js/main.928b9358.chunk.js"
+    "static/js/main.24370534.chunk.js"
   ]
 }
